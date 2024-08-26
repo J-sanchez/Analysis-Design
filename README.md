@@ -11,14 +11,14 @@ In this course, we completed several projects that involved critical aspects of 
 
 In this project, we analyzed the run-time and memory efficiency of various data structures. The analysis conducted highlights the performance implications of different data structures in various scenarios.
 
-- **File:** ``
+- **File:** `6.2_Project_One_Jonathan_Sanchez.docx`
 - **Description:** This document contains a detailed analysis of the time complexity and space complexity associated with different data structures used in the project.
 
 ### Project Two: Sorting and Printing Courses
 
 For this project, you implemented a sorting algorithm to order a list of courses in the Computer Science program alphanumerically. This demonstrates your ability to work with sorting algorithms and manage lists.
 
-- **File:** ``
+- **File:** `ProjectTwo.cpp`
 - **Description:** This C++ script implements a hash map to store computer science courses. The program allows the user to load a file, prints out a list of Computer Science courses, and allows the user to search for a specific course.
 
 ## Reflection
